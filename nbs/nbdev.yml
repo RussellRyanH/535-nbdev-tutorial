@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "535-nbdev-tutorial"
+  site-url: "https://RussellRyanH.github.io/535-nbdev-tutorial"
+  description: "Tech tutorial # 7 for CSCI 535"
+  repo-branch: main
+  repo-url: "https://github.com/RussellRyanH/535-nbdev-tutorial"
